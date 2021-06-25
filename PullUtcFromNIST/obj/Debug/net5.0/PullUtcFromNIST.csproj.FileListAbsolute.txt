@@ -1,0 +1,16 @@
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.exe
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.deps.json
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.runtimeconfig.json
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.runtimeconfig.dev.json
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.dll
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\ref\PullUtcFromNIST.dll
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\bin\Debug\net5.0\PullUtcFromNIST.pdb
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.csproj.AssemblyReference.cache
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.AssemblyInfoInputs.cache
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.AssemblyInfo.cs
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.csproj.CoreCompileInputs.cache
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.dll
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\ref\PullUtcFromNIST.dll
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.pdb
+C:\Users\mattm\source\repos\PullUtcFromNIST\PullUtcFromNIST\obj\Debug\net5.0\PullUtcFromNIST.genruntimeconfig.cache
